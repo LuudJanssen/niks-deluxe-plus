@@ -1,0 +1,10 @@
+{
+  "eslint.experimental.useFlatConfig": true,
+  "editor.quickSuggestions": {
+    "strings": "on"
+  },
+  "tailwindCSS.experimental.classRegex": [
+    "tailwind\\(.+\\,\\s?\"([^\\\"]*)",
+    "tailwind\\.\\w+\\(\\\"(\\s?[^\\\"]*)"
+  ]
+}
